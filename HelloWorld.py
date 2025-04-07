@@ -1,6 +1,6 @@
 print("Hello World")
 Print("Boo Hoo!")
 Print("Woo Hoo")
-print("Bananas")
+print("apples are nice")
 print("This looks dangerous")
 print("New features")
